@@ -24,6 +24,10 @@ For all of the great Webex developer resources, check out [awesome-webex](https:
 
 ### Webex Teams
 
+### Python
+- [Heroku Parrot Bot](https://github.com/lorashley/heroku_parrot) - a sample bot that repeats what is said to it, deployed on heroku
+- [PyIntegration](https://github.com/CiscoCollabTME/pyIntegration) - an example of an integration deployed on heroku
+
 ---
 
 ## License

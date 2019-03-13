@@ -21,6 +21,11 @@ Created with ♥️ by the TMEs.
 For all of the great Webex developer resources, check out [awesome-webex](https://github.com/CiscoDevNet/awesome-webex).
 
 ### Webex Teams
+
+#### Labs
+- [Node Red Cognitive Bots Lab](https://glitch.com/~ultra-station) A Glitch Node-Red Project for the Cognitive Bots Lab. 
+- [Guest Widget Lab](https://glitch.com/~battle-cupboard) A Glitch Lab that shows how to get started with Webex Teams Guest Issuer and embedding a widget into a store-front. 
+
 #### NodeJS
 - [Webex Teams NodeJS SDK](https://www.github.com/webex/spark-js-sdk) - NodeJS SDK for Webex Teams *Not created by TMEs but a great resource*
 - [QAaaS](https://github.com/2Koush/qaaas) - Code created that leverages AWS, Watson Assistant, and MongoDB to provide a bot that handles questions and answers, and routes unknown answers to defined subject matter experts.

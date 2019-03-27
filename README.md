@@ -40,7 +40,7 @@ For all of the great Webex developer resources, check out [awesome-webex](https:
 ---
 
 ## License
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/CiscoCollabTME/catalog/blob/master/CONTRIBUTING.md) first.
